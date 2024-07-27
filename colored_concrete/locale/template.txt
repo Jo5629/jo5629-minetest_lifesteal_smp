@@ -1,0 +1,17 @@
+# textdomain: colored_concrete
+White Concrete=
+Orange Concrete=
+Magenta Concrete=
+Lightblue Concrete=
+Yellow Concrete=
+Lightgreen Concrete=
+Pink Concrete=
+Darkgrey Concrete=
+Grey Concrete=
+Turquoise Concrete=
+Violet Concrete=
+Blue Concrete=
+Brown Concrete=
+Green Concrete=
+Red Concrete=
+Black Concrete=
