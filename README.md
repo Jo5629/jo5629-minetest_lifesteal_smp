@@ -1,8 +1,4 @@
-# Minetest Lifesteal SMP Mods
-
-These are mods for the Minetest Lifesteal SMP.
-
-## Modlist
+# Mod List
 
 - `3d_armor`
 - `animalia`
@@ -10,10 +6,13 @@ These are mods for the Minetest Lifesteal SMP.
 - `areas`
 - `caverealms`
 - `colored_concrete`
+- `controls`
+- `ctf_guns`
 - `edit_skin`
 - `ethereal`
 - `farming`
 - `lifesteal_mod`
+- `mhud`
 - `protector`
 - `simple_woodcutter`
 - `techage_modpack`
@@ -22,3 +21,5 @@ These are mods for the Minetest Lifesteal SMP.
 - `xban2`
 - `xdecor`
 - `x_enchanting`
+
+`mapgen_limit = 2048`
