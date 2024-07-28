@@ -12,6 +12,7 @@
 - `ethereal`
 - `farming`
 - `lifesteal_mod`
+- `mail`
 - `mhud`
 - `protector`
 - `simple_woodcutter`
